@@ -1,6 +1,6 @@
 ![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/Artboard.jpg)
 
-About me 
+## I am learning golang and in search for job 
 
 
 My activities
