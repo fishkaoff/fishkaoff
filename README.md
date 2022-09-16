@@ -7,7 +7,7 @@ My activities
 
 
 ### Languages and Tools 
-![Golang](https://img.shields.io/badge/-Golang-000000?style=for-the-badge&logo=golang&logColor=14ffe6)
+![Golang](https://img.shields.io/badge/-Golang-14ffe6?style=for-the-badge&logo=golang)
 
 Follow me 
 
