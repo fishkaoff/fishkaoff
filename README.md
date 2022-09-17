@@ -1,4 +1,4 @@
-![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/img.jpg)
+![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
 
 ## I am learning Golang and looking for job 
 
