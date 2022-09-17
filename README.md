@@ -3,7 +3,11 @@
 ## I am learning Golang and looking for job 
 
 
-My activities
+### My activities
+
+#### ✔ Learn Golang
+#### ✔ Learn English Language
+#### ✔ Working on projects
 
 
 ### Languages and Tools 
