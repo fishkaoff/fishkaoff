@@ -7,12 +7,13 @@ My activities
 
 
 ### Languages and Tools 
-![Golang](https://img.shields.io/badge/-Golang-3c3c3c?style=for-the-badge&logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3c3c3c?style=for-the-badge&logo=JavaScript)
-![Postgresql](https://img.shields.io/badge/-Postgresql-3c3c3c?style=for-the-badge&logo=postgresql)
-![Sql](https://img.shields.io/badge/-Sql-3c3c3c?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-3c3c3c?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-3c3c3c?style=for-the-badge&logo=github)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
 
-Follow me 
+### Follow me 
 
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logColor=4F7DB3)](https://vk.com/f1shka0ff)
