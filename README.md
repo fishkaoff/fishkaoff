@@ -1,6 +1,6 @@
 ![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
 
-## I am learning Golang and looking for job 
+## Hi, There👋! I am beginner Golang developer
 
 
 ### My activities
@@ -8,6 +8,7 @@
 #### ✔ Learn Golang
 #### ✔ Learn English Language
 #### ✔ Working on projects
+#### ✔ Searching for job
 
 
 ### Languages and Tools 
