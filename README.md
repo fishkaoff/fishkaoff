@@ -5,10 +5,10 @@
 
 ### My activities
 
-#### ✔ Learn Golang
-#### ✔ Learn English Language
-#### ✔ Working on projects
-#### ✔ Searching for job
+#### ➖ Learn Golang
+#### ➖ Learn English Language
+#### ➖ Working on projects
+#### ➖ Searching for job
 
 
 ### Languages and Tools 
