@@ -16,4 +16,5 @@ My activities
 
 ### Follow me 
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logColor=4F7DB3)](https://vk.com/f1shka0ff)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/f1shka0ff)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://vk.com/f1shka0ff)
