@@ -8,7 +8,7 @@
 #### ➖ Learn Golang
 #### ➖ Learn English Language
 #### ➖ Working on projects
-#### ➖ Searching for job
+#### ➖ Looking for job
 
 
 ### Languages and Tools 
