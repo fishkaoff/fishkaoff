@@ -1,11 +1,11 @@
 ![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
 
-## Hi, There👋! I am beginner Golang developer
+## Hi, There👋! I am beginner Golang and React JS developer
 
 
 ### My activities
 
-#### ➖ Learn Golang 
+#### ➖ Learn Golang and React JS
 #### ➖ Learn English Language
 #### ➖ Working on projects
 #### ➖ Looking for job
