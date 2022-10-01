@@ -14,6 +14,7 @@
 ### Languages and Tools 
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=nodejs)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
