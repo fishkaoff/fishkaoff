@@ -5,7 +5,7 @@
 
 ### My activities
 
-#### ➖ Learn Golang and Java
+#### ➖ Learn Golang and ReactJS
 #### ➖ Learn English Language
 #### ➖ Working on projects
 #### ➖ Looking for job
@@ -13,7 +13,6 @@
 
 ### Languages and Tools 
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
