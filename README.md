@@ -1,11 +1,11 @@
 ![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
 
-## Hi, There👋! I am Golang and ReactJS developer
+## Hi, There👋! I am Golang and NodeJS developer
 
 
 ### My activities
 
-#### ➖ Learn Golang and ReactJS
+#### ➖ Learn Golang and NodeJS
 #### ➖ Learn English Language
 #### ➖ Working on projects
 #### ➖ Looking for job
@@ -20,6 +20,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
+
+### Main Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
 
 ### Follow me 
 
