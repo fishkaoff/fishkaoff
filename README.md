@@ -22,8 +22,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
 
 ### Main Stack
+![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+
+### Second Stack
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
+![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 
 ### Follow me 
 
