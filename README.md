@@ -1,17 +1,17 @@
 ![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
 
-## Hi, There👋! I am junior Java developer
+## Hi, There👋! I am junior Golang developer
 
 
 ### My activities
 
-#### ➖ Learn Java 
+#### ➖ Learn Golang
 #### ➖ Learn English Language
 #### ➖ Looking for job
 
 
 ### Languages and Tools 
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
