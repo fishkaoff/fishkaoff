@@ -1,6 +1,6 @@
 ![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
 
-## Hi, There👋! I am junior Golang developer
+## Hi, There👋! 
 
 
 ### My activities
