@@ -1,6 +1,3 @@
-## Hi, There👋! 
-
-
 ### Languages and Tools 
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql)
