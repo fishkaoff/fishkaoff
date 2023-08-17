@@ -1,5 +1,3 @@
-![Header](https://github.com/fishkaoff/fishkaoff/blob/main/assets/header.jpg)
-
 ## Hi, There👋! 
 
 
