@@ -6,7 +6,7 @@ Backend developer
 
 * 🌍  I'm based in Ufa, Russia
 * ✉️  You can contact me at [i@khammatov711.ru](mailto:i@khammatov711.ru)
-* 🚀  I'm currently working on [ООО ТПП "Альянс Групп"](http://ruswh.ru)
+* 🚀  I'm currently working on [ООО Центр Внедрения "СБИС"](sbis.ru)
 * 🧠  I'm learning English language, data structures and algorithms
 
 ### Skills
